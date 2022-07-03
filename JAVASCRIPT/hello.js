@@ -29,4 +29,4 @@ let x=function(num){
 console.log(num*num*num);
 }
 
-x(5);
+x(6);
